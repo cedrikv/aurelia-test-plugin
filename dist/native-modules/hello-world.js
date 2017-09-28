@@ -5,9 +5,9 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 import { customElement } from 'aurelia-framework';
-var HelloWorld = (function () {
+var HelloWorld = /** @class */ (function () {
     function HelloWorld() {
-        this.text = 'Hello, world!';
+        this.text = 'Hello, aaaaaa!';
     }
     HelloWorld = __decorate([
         customElement('hello-world')

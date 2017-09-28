@@ -7,7 +7,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 import { customElement } from 'aurelia-framework';
 let HelloWorld = class HelloWorld {
     constructor() {
-        this.text = 'Hello, world!';
+        this.text = 'Hello, aaaaaa!';
     }
 };
 HelloWorld = __decorate([

@@ -7,9 +7,9 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var aurelia_framework_1 = require("aurelia-framework");
-var HelloWorld = (function () {
+var HelloWorld = /** @class */ (function () {
     function HelloWorld() {
-        this.text = 'Hello, world!';
+        this.text = 'Hello, aaaaaa!';
     }
     HelloWorld = __decorate([
         aurelia_framework_1.customElement('hello-world')

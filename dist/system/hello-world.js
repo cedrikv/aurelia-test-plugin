@@ -15,9 +15,9 @@ System.register(["aurelia-framework"], function (exports_1, context_1) {
             }
         ],
         execute: function () {
-            HelloWorld = (function () {
+            HelloWorld = /** @class */ (function () {
                 function HelloWorld() {
-                    this.text = 'Hello, world!';
+                    this.text = 'Hello, aaaaaa!';
                 }
                 HelloWorld = __decorate([
                     aurelia_framework_1.customElement('hello-world')
