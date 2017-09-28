@@ -1,7 +1,7 @@
 {
-  "name": "aurelia-skeleton-plugin-typescript",
+  "name": "aurelia-test-plugin",
   "version": "1.0.0",
-  "description": "A starter kit for building an Aurelia plugin written in TypeScript.",
+  "description": "A test with custom Aurelia plugins.",
   "keywords": [
     "aurelia",
     "plugin",
@@ -10,7 +10,7 @@
   ],
   "homepage": "http://aurelia.io",
   "bugs": {
-    "url": "https://github.com/aurelia/skeleton-plugin-typescript/issues"
+    "url": "https://github.com/cedrikv/aurelia-test-plugin/issues"
   },
   "license": "CC0-1.0",
   "author": "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)",
@@ -18,7 +18,7 @@
   "typings": "dist/commonjs/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "http://github.com/aurelia/skeleton-plugin"
+    "url": "https://github.com/cedrikv/aurelia-test-plugin"
   },
   "scripts": {
     "lint": "cross-env tslint --project tsconfig.json",
