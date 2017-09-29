@@ -94,5 +94,15 @@
     "dependencies": {
       "aurelia-framework": "^1.1.2"
     }
-  }
+  },
+  "aurelia": {
+    "build": {
+      "resources": [
+        "hello-world",
+        "hello-world/index",
+        "hello-world/hello-world",
+        "hello-world/resources/scss/hello-world.scss"
+      ]
+    }
+  }  
 }
